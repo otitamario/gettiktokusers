@@ -1,7 +1,7 @@
 # gettiktokusers
 
 <div align="center">
-  <img src="https://pixabay.com/images/id-5390055/" width="600" height="300"/>
+  <img src="https://www.freepik.com/free-vector/tiktok-banner-with-watercolor-splatter_10363352.htm#query=tik%20tok&position=0&from_view=search" width="600" height="300"/>
 </div>
 
 <p>A python BeautifulSoup scprap data of top Tik Tok users from Wikipedia:
