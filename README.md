@@ -19,7 +19,7 @@ and save the informations to a MySQL database
 How to install
 </h3>
 <p>From command line run: pip install -r requirements.txt</p> <br>
-<p>Then python3 main.py</p>
+<p>Then run: python3 main.py</p>
 
 </div>
 
