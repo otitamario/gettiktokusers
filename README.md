@@ -1,6 +1,9 @@
 # gettiktokusers
-<img align="left" src="https://pixabay.com/images/id-5390055/
-"/>
+
+<div align="center">
+  <img src="https://pixabay.com/images/id-5390055/" width="600" height="300"/>
+</div>
+
 <p>A python BeautifulSoup scprap data of top Tik Tok users from Wikipedia:
 </p>
 <p>
